@@ -1,0 +1,21 @@
+body{
+    background-color: aquamarine;
+  }
+/*COMENTARIOS*/
+.titulo-principal {
+color:blue;
+background-color:blueviolet
+}
+
+/*TABLA HORARIOS ATENCION*/
+.dias-tabla {
+    font-weight: bolder;
+    font: size 50px;;
+    color:black;
+    background-color: blueviolet;
+}
+.horario-tabla {
+    font-style: italic;
+    color:black;
+    background-color: brown;
+}
